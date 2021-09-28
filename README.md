@@ -1,4 +1,4 @@
-# Android Jetpack Security - Master File & Sharedpreferences Encryption
+# Android Jetpack Security
 
 Project associated with the [Android Jetpack Security][1] course from [Udemy][2].
 
